@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ddming/C_CPP/threadpool_cpp/build",
+  "command": "/usr/bin/c++   -I/home/ddming/C_CPP/threadpool_cpp/TaskQueue  -g   -std=gnu++11 -o CMakeFiles/TaskQueue.dir/TaskQueue/TaskQueue.cpp.o -c /home/ddming/C_CPP/threadpool_cpp/TaskQueue/TaskQueue.cpp",
+  "file": "/home/ddming/C_CPP/threadpool_cpp/TaskQueue/TaskQueue.cpp"
+},
+{
+  "directory": "/home/ddming/C_CPP/threadpool_cpp/build",
+  "command": "/usr/bin/c++   -I/home/ddming/C_CPP/threadpool_cpp/TaskQueue -I/home/ddming/C_CPP/threadpool_cpp/ThreadPool  -g   -std=gnu++11 -o CMakeFiles/app.dir/main.cpp.o -c /home/ddming/C_CPP/threadpool_cpp/main.cpp",
+  "file": "/home/ddming/C_CPP/threadpool_cpp/main.cpp"
+},
+{
+  "directory": "/home/ddming/C_CPP/threadpool_cpp/build",
+  "command": "/usr/bin/c++   -I/home/ddming/C_CPP/threadpool_cpp/ThreadPool -I/home/ddming/C_CPP/threadpool_cpp/TaskQueue  -g   -std=gnu++11 -o CMakeFiles/ThreadPool.dir/ThreadPool/ThreadPool.cpp.o -c /home/ddming/C_CPP/threadpool_cpp/ThreadPool/ThreadPool.cpp",
+  "file": "/home/ddming/C_CPP/threadpool_cpp/ThreadPool/ThreadPool.cpp"
+}
+]

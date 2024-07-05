@@ -1,0 +1,24 @@
+// {
+//     // clang-format 扩展的配置
+//     "clang-format.style": "file",
+//     "clang-format.assumeFilename": "/home/user/.clang-format",
+//     "clang-format.executable": "/usr/bin/clang-format",
+//     "clang-format.fallbackStyle": "Google",
+//     "editor.defaultFormatter": "xaver.clang-format"
+// }
+
+{
+    // clang-format 扩展的配置
+    "clang-format.style": "file",
+    "clang-format.executable": "/usr/bin/clang-format",
+    "clang-format.fallbackStyle": "Google",
+    "editor.defaultFormatter": "xaver.clang-format",
+  
+    // 启用保存时自动格式化，并指定使用 clang-format
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "none",
+    "C_Cpp.clang_format_style": "file",
+    "C_Cpp.default.formatting": "clang-format",
+  
+  }
+  

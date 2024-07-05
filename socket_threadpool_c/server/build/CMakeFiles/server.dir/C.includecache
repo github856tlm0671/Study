@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/threadpool.h
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+
+/home/ddming/C_CPP/socket_threadpool_c/server/server.c
+argp.h
+-
+arpa/inet.h
+-
+fcntl.h
+-
+pthread.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+threadpool.h
+/home/ddming/C_CPP/socket_threadpool_c/server/threadpool.h
+
+/home/ddming/C_CPP/socket_threadpool_c/server/src/threadpool.c
+threadpool.h
+/home/ddming/C_CPP/socket_threadpool_c/server/src/threadpool.h
+

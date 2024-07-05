@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "threadpool.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/ddming/C_CPP/socket_threadpool_c/server"
+}

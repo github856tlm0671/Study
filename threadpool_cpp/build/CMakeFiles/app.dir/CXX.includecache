@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../TaskQueue/TaskQueue.h
+pthread.h
+-
+stdlib.h
+-
+iostream
+-
+queue
+-
+
+../ThreadPool/ThreadPool.h
+pthread.h
+-
+stdlib.h
+-
+iostream
+-
+queue
+-
+unistd.h
+-
+TaskQueue.h
+../ThreadPool/TaskQueue.h
+
+/home/ddming/C_CPP/threadpool_cpp/main.cpp
+ThreadPool.h
+/home/ddming/C_CPP/threadpool_cpp/ThreadPool.h
+iostream
+-
+unistd.h
+-
+stdlib.h
+-
+

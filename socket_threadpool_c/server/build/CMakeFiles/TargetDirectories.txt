@@ -1,0 +1,3 @@
+/home/ddming/C_CPP/socket_threadpool_c/server/build/CMakeFiles/rebuild_cache.dir
+/home/ddming/C_CPP/socket_threadpool_c/server/build/CMakeFiles/server.dir
+/home/ddming/C_CPP/socket_threadpool_c/server/build/CMakeFiles/edit_cache.dir

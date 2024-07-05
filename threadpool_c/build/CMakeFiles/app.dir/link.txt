@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG   CMakeFiles/app.dir/main.c.o CMakeFiles/app.dir/src/threadpool.c.o  -o app -lpthread 
