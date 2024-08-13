@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+4fd8aefcf4e2e2543e502783bb68a2b1 proto/mydata.pb.h

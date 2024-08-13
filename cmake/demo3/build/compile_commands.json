@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ddming/Study/program/build",
+  "command": "/usr/bin/cc  -I/home/ddming/Study/program/add -I/home/ddming/Study/program/sub -g -std=gnu11 -o CMakeFiles/main.dir/main.c.o -c /home/ddming/Study/program/main.c",
+  "file": "/home/ddming/Study/program/main.c"
+},
+{
+  "directory": "/home/ddming/Study/program/build",
+  "command": "/usr/bin/cc  -I/home/ddming/Study/program/add -I/home/ddming/Study/program/sub -g -std=gnu11 -o CMakeFiles/main.dir/add/add.c.o -c /home/ddming/Study/program/add/add.c",
+  "file": "/home/ddming/Study/program/add/add.c"
+},
+{
+  "directory": "/home/ddming/Study/program/build",
+  "command": "/usr/bin/cc  -I/home/ddming/Study/program/add -I/home/ddming/Study/program/sub -g -std=gnu11 -o CMakeFiles/main.dir/sub/sub.c.o -c /home/ddming/Study/program/sub/sub.c",
+  "file": "/home/ddming/Study/program/sub/sub.c"
+}
+]

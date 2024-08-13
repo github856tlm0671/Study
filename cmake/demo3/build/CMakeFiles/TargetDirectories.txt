@@ -1,0 +1,3 @@
+/home/ddming/Study/program/build/CMakeFiles/main.dir
+/home/ddming/Study/program/build/CMakeFiles/edit_cache.dir
+/home/ddming/Study/program/build/CMakeFiles/rebuild_cache.dir

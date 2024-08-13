@@ -1,0 +1,14 @@
+/home/ddming/Study/cmake/demo2/build/CMakeFiles/edit_cache.dir
+/home/ddming/Study/cmake/demo2/build/CMakeFiles/rebuild_cache.dir
+/home/ddming/Study/cmake/demo2/build/proto/CMakeFiles/mydata.dir
+/home/ddming/Study/cmake/demo2/build/proto/CMakeFiles/edit_cache.dir
+/home/ddming/Study/cmake/demo2/build/proto/CMakeFiles/rebuild_cache.dir
+/home/ddming/Study/cmake/demo2/build/add/CMakeFiles/add.dir
+/home/ddming/Study/cmake/demo2/build/add/CMakeFiles/edit_cache.dir
+/home/ddming/Study/cmake/demo2/build/add/CMakeFiles/rebuild_cache.dir
+/home/ddming/Study/cmake/demo2/build/sub/CMakeFiles/sub.dir
+/home/ddming/Study/cmake/demo2/build/sub/CMakeFiles/edit_cache.dir
+/home/ddming/Study/cmake/demo2/build/sub/CMakeFiles/rebuild_cache.dir
+/home/ddming/Study/cmake/demo2/build/main/CMakeFiles/main.dir
+/home/ddming/Study/cmake/demo2/build/main/CMakeFiles/edit_cache.dir
+/home/ddming/Study/cmake/demo2/build/main/CMakeFiles/rebuild_cache.dir

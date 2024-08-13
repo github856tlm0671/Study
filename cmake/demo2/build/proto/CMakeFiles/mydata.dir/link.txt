@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmydata.a CMakeFiles/mydata.dir/mydata.pb.cc.o
+/usr/bin/ranlib libmydata.a
